@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A1A1A"/>
+      <stop offset="100%" stop-color="#2B2B2B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#g)"/>
+  <rect x="1" y="1" width="1918" height="1078" fill="none" stroke="#C9A961" stroke-width="2"/>
+  <text x="50%" y="514" font-family="Arial, sans-serif" font-size="86" font-weight="bold" fill="#F5F3F0" text-anchor="middle">SUBSTITUIR IMAGEM</text>
+  <text x="50%" y="617" font-family="Arial, sans-serif" font-size="61" fill="#C9A961" text-anchor="middle">Foto hero: clinica moderna, sala de tratamento premium,</text>
+  <text x="50%" y="700" font-family="Arial, sans-serif" font-size="61" fill="#C9A961" text-anchor="middle">iluminacao suave (1920x1080)</text>
+  
+</svg>
